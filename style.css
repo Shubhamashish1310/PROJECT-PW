@@ -9,12 +9,15 @@
     background-color: aqua;
     height: 100%;
     padding: 10px;
+    overflow: auto;
+    
   }
   .box2 {
     padding: 10px;
     color: rgb(0, 0, 0);
-    background-color: rgb(1, 118, 105);
+    background-color: rgb(213, 229, 227);
     height: 100%;
+   
     overflow: hidden;
   }
   .education{
